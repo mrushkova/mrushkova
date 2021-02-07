@@ -4,7 +4,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/maria.rushkova/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mrushkova)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mrushkova.mrushkova)
+👋🏻 **Glad to see you here! &nbsp;** ![](https://visitor-badge.glitch.me/badge?page_id=mrushkova.mrushkova)
 
 I'm a front-end developer with 1 year experience and 7+ years of management experience.  
 I develop websites and landing pages using HTML5, CSS3, JavaScript (ES6), Sass (SCSS), Gulp, Pug, Bootstrap and BEM.
