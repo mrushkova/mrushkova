@@ -1,6 +1,6 @@
 ### Hi there, I'm Maria Rushkova 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/maria-rushkova/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://https://linkedin.com/in/maria-rushkova/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/maria.rushkova/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mrushkova)
 
