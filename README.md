@@ -6,8 +6,7 @@
 
 👋🏻 **Glad to see you here! &nbsp;** ![](https://visitor-badge.glitch.me/badge?page_id=mrushkova.mrushkova)
 
-I'm a front-end developer with 1+ year experience and 7+ years of management experience.  
-I develop websites and landing pages using HTML5, CSS3, JavaScript (ES6), Sass (SCSS), Gulp, Pug and BEM.
+I'm a front-end developer and I create websites and web applications using HTML5, CSS3, JavaScript (ES6) and React.
 
 📈 **My GitHub Stats:**
 
