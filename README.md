@@ -6,7 +6,7 @@
 
 👋🏻 **Glad to see you here! &nbsp;** ![](https://visitor-badge.glitch.me/badge?page_id=mrushkova.mrushkova)
 
-I'm a front-end developer and I create websites and web applications using HTML5, CSS3, JavaScript (ES6) and React.
+I'm a front-end developer and I create websites and web applications using HTML5, CSS3, JavaScript (ES6), React and TypeScript.
 
 📈 **My GitHub Stats:**
 
