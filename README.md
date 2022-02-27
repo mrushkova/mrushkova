@@ -1,10 +1,4 @@
-### Hi there, I'm Maria Rushkova 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-rushkova/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/maria.rushkova/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mrushkova)
-
-👋🏻  **Glad to see you here! &nbsp;** ![](https://visitor-badge.glitch.me/badge?page_id=mrushkova.mrushkova)
+### Hi there, I'm [Maria Rushkova](https://www.linkedin.com/in/maria-rushkova/)
 
 I'm a front-end developer and I create websites and web applications using HTML5, CSS3, JavaScript (ES6), React and TypeScript.
 
